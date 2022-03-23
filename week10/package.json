@@ -1,8 +1,6 @@
 {
-  "name": "graphql",
+  "name": "week10",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
   "scripts": {
     "start": "node -r @babel/register src/app.js"
   },
